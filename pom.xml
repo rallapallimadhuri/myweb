@@ -40,7 +40,7 @@
 		<repository>
 			<id>nexus</id>
 			<name>Releases</name>
-			<urlhttp://35.164.209.191:8081/nexus/content/repositories/releases/></url>
+			<url>http://35.164.209.191:8081/nexus/content/repositories/releases/></url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
